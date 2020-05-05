@@ -1,0 +1,12 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+    btn_menu_play_UP: { down:btn_menu_play_DOWN,up:btn_menu_play_UP},
+    btn_menu_hiscore_UP: { down: btn_menu_hiscore_DOWN, up: btn_menu_hiscore_UP},
+    btn_menu_exit_UP: { down: btn_menu_exit_DOWN, up: btn_menu_exit_UP},
+    btn_back_UP: { down: btn_back_DOWN, up: btn_back_UP},	
+    btn_level01_unlock_UP: { down: btn_level01_unlock_DOWN, up: btn_level01_unlock_UP},	
+    btn_level01_lock: { down: btn_level01_lock, up: btn_level01_lock},	
+    btn_level02_unlock_UP: { down: btn_level02_unlock_DOWN, up: btn_level02_unlock_UP},	
+    btn_level02_lock: { down: btn_level02_lock, up: btn_level02_lock}, 
+}
+}

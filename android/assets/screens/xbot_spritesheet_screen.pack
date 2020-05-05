@@ -1,0 +1,135 @@
+xbot_spritesheet_screen.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg_level01_endscreen
+  rotate: false
+  xy: 1, 615
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+bg_hiscorescreen
+  rotate: false
+  xy: 1, 213
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+btn_menu_play_UP
+  rotate: false
+  xy: 643, 950
+  size: 232, 65
+  orig: 232, 65
+  offset: 0, 0
+  index: -1
+btn_menu_exit_DOWN
+  rotate: false
+  xy: 1, 146
+  size: 232, 65
+  orig: 232, 65
+  offset: 0, 0
+  index: -1
+btn_menu_exit_UP
+  rotate: false
+  xy: 643, 883
+  size: 232, 65
+  orig: 232, 65
+  offset: 0, 0
+  index: -1
+btn_menu_hiscore_DOWN
+  rotate: false
+  xy: 1, 79
+  size: 232, 65
+  orig: 232, 65
+  offset: 0, 0
+  index: -1
+btn_menu_hiscore_UP
+  rotate: false
+  xy: 235, 146
+  size: 232, 65
+  orig: 232, 65
+  offset: 0, 0
+  index: -1
+btn_menu_play_DOWN
+  rotate: false
+  xy: 643, 816
+  size: 232, 65
+  orig: 232, 65
+  offset: 0, 0
+  index: -1
+btn_level01_lock
+  rotate: false
+  xy: 877, 939
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+btn_level01_unlock_DOWN
+  rotate: false
+  xy: 1, 1
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+btn_level01_unlock_UP
+  rotate: false
+  xy: 643, 738
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+btn_level02_lock
+  rotate: false
+  xy: 877, 861
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+btn_level02_unlock_DOWN
+  rotate: false
+  xy: 943, 939
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+btn_level02_unlock_UP
+  rotate: false
+  xy: 67, 1
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+btn_back_DOWN
+  rotate: false
+  xy: 235, 107
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+btn_back_UP
+  rotate: false
+  xy: 469, 174
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+
+xbot_spritesheet_screen2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg_playscreen
+  rotate: false
+  xy: 1, 403
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+bg_menuscreen
+  rotate: false
+  xy: 1, 1
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
